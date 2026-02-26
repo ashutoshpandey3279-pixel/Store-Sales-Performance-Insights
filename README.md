@@ -1,11 +1,11 @@
 # Store-Sales-Performance-Insights
 This Power BI dashboard analyzes retail store data to track revenue growth, product line performance, and the impact of various promotional campaigns.
 
-📊 Store Data & Sales Analysis Dashboard
+Store Data & Sales Analysis Dashboard
 
-### Dashboard Link : [<img width="1356" height="822" alt="Image" src="https://github.com/user-attachments/assets/e97c704b-bc46-4161-a0a2-c96e5c62dea9" />]
+ [<img width="1356" height="822" alt="Image" src="https://github.com/user-attachments/assets/e97c704b-bc46-4161-a0a2-c96e5c62dea9" />]
 
-📝 Problem Statement
+ Problem Statement
 
 This dashboard helps a retail store understand customer purchasing patterns and product performance. It identifies which product lines are driving revenue and the effectiveness of specific marketing promotions. By analyzing "Units Sold" and "Price Per Unit," the store can pinpoint high-value categories and optimize inventory.
 
