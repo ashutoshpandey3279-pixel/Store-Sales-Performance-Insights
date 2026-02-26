@@ -3,7 +3,7 @@ This Power BI dashboard analyzes retail store data to track revenue growth, prod
 
 📊 Store Data & Sales Analysis Dashboard
 
-### Dashboard Link : [Insert Your Power BI Service Link Here]
+### Dashboard Link : [<img width="1356" height="822" alt="Image" src="https://github.com/user-attachments/assets/e97c704b-bc46-4161-a0a2-c96e5c62dea9" />]
 
 📝 Problem Statement
 
